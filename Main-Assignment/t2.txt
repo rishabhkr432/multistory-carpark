@@ -1,0 +1,86 @@
+Car Parking System
+License_no
+12345
+Zone type
+Zone1
+Zone price
+1.0
+Ticket number
+0
+Space ID
+0
+Time of entry
+1557174159452
+Counter
+0
+Exit barrier code
+AVK
+NextTicket
+License_no
+12WQE
+Zone type
+Zone1
+Zone price
+0.5
+Ticket number
+2
+Space ID
+1
+Time of entry
+1557187141541
+Counter
+0
+Exit barrier code
+null
+NextTicket
+License_no
+1Q2
+Zone type
+Zone5
+Zone price
+0.5
+Ticket number
+3
+Space ID
+0
+Time of entry
+1557187609140
+Counter
+0
+Exit barrier code
+null
+NextTicket
+License_no
+12QW3
+Zone type
+Zone1
+Zone price
+0.5
+Ticket number
+4
+Space ID
+2
+Time of entry
+1557208852067
+Counter
+0
+Exit barrier code
+null
+NextTicket
+License_no
+1Q2
+Zone type
+Zone5
+Zone price
+0.5
+Ticket number
+3
+Space ID
+0
+Time of entry
+1557187609140
+Counter
+1557210747202
+Exit barrier code
+UAU
+NextTicket

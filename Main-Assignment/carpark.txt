@@ -1,0 +1,222 @@
+Car Parking System
+License_no
+12345
+Zone type
+Zone1
+Zone price
+1.0
+Ticket number
+0
+Space ID
+0
+Time of entry
+1557174159452
+Counter
+0
+Exit barrier code
+AVK
+NextTicket
+License_no
+12QW3
+Zone type
+Zone3
+Zone price
+2.0
+Ticket number
+1
+Space ID
+0
+Time of entry
+1557351930030
+Counter
+0
+Exit barrier code
+null
+NextTicket
+License_no
+1QA2WS
+Zone type
+Zone1
+Zone price
+1.0
+Ticket number
+2
+Space ID
+1
+Time of entry
+1557451975305
+Counter
+0
+Exit barrier code
+null
+NextTicket
+License_no
+12QW
+Zone type
+Zone3
+Zone price
+2.0
+Ticket number
+3
+Space ID
+1
+Time of entry
+1557452006598
+Counter
+0
+Exit barrier code
+null
+NextTicket
+License_no
+QW32
+Zone type
+Zone5
+Zone price
+0.5
+Ticket number
+4
+Space ID
+0
+Time of entry
+1557452032170
+Counter
+0
+Exit barrier code
+null
+NextTicket
+License_no
+Pe62 qw23
+Zone type
+Zone1
+Zone price
+1.0
+Ticket number
+5
+Space ID
+2
+Time of entry
+1557455997765
+Counter
+0
+Exit barrier code
+null
+NextTicket
+License_no
+PE62 34R
+Zone type
+Zone2
+Zone price
+0.75
+Ticket number
+6
+Space ID
+0
+Time of entry
+1557458468411
+Counter
+0
+Exit barrier code
+null
+NextTicket
+License_no
+BMW 32
+Zone type
+Zone3
+Zone price
+1.0
+Ticket number
+7
+Space ID
+2
+Time of entry
+1557458634281
+Counter
+0
+Exit barrier code
+null
+NextTicket
+License_no
+BNMY 65
+Zone type
+Zone2
+Zone price
+1.5
+Ticket number
+8
+Space ID
+1
+Time of entry
+1557458781621
+Counter
+0
+Exit barrier code
+null
+NextTicket
+License_no
+QWASR
+Zone type
+Zone5
+Zone price
+0.5
+Ticket number
+9
+Space ID
+1
+Time of entry
+1557459914788
+Counter
+0
+Exit barrier code
+null
+NextTicket
+License_no
+Q12W3
+Zone type
+Zone3
+Zone price
+2.0
+Ticket number
+10
+Space ID
+3
+Time of entry
+1557460057524
+Counter
+0
+Exit barrier code
+null
+NextTicket
+License_no
+PE32 W3E
+Zone type
+Zone1
+Zone price
+1.0
+Ticket number
+11
+Space ID
+3
+Time of entry
+1557461758938
+Counter
+0
+Exit barrier code
+null
+NextTicket
+License_no
+WASQ
+Zone type
+Zone1
+Zone price
+1.0
+Ticket number
+12
+Space ID
+4
+Time of entry
+1571780580456
+Counter
+0
+Exit barrier code
+null
+NextTicket
